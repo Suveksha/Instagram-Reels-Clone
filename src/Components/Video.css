@@ -1,0 +1,5 @@
+.videos-styling{
+    height: 80vh;
+    width:100%;
+    scroll-snap-align: start;
+}
